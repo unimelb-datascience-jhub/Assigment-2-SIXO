@@ -1,4 +1,4 @@
-# Assigment-2-SIXO
+# Team member list:
 
 Ling Zhou: ex.lzhou000
 
